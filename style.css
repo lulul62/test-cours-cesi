@@ -1,0 +1,14 @@
+.form-container {
+  width: 50%;
+  border-radius: 6px;
+  background: lightgray;
+  padding: 15px;
+}
+
+.form-body {
+  margin-left: 3em;
+}
+
+.form-name {
+  color: red;
+}
